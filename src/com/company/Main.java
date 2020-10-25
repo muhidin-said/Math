@@ -80,6 +80,7 @@ public class Main {
        LA.elimateGj(A);
        LA.showMatrix(A);
 
+       //nouveau test blalba
 
     }
 }
